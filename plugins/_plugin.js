@@ -1,6 +1,6 @@
-/* Copyright (C) 2020 Yusuf Usta.
-re codded by BADBMODER
-*/
+/* Copyright (C) 2020 ayodya.
+re codded by prince muthu🥀
+*/ 
 
 const badboy = require('../events');
 const Heroku = require('heroku-client');
